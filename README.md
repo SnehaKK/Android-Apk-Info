@@ -13,8 +13,8 @@ Requirements: Adb, flask and python installed on the machine.
 Assumptions: You have the extracted Apk files in a folder to upload.
 
 ## How to Run this script
-Step 1. Install and Check all dependencies.
-Step 2. Run the apkInfo.py script in the terminal using command: python apkInfo.py
-Step 3. Open the browser go to "http://localhost:5500".
-Step 4. Upload all the apk files and click submit.
-Step 5. Optionally, you can check all the history from the history tab.
+1. Install and Check all dependencies.
+2. Run the apkInfo.py script in the terminal using command: python apkInfo.py
+3. Open the browser go to "http://localhost:5500".
+4. Upload all the apk files and click submit.
+5. Optionally, you can check all the history from the history tab.
